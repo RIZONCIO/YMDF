@@ -4,8 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/github/license/RIZONCIO/YMDF)
-![Stars](https://img.shields.io/github/stars/RIZONCIO/YMDF?style=social)
-![Issues](https://img.shields.io/github/issues/RIZONCIO/YMDF)
 ![Last Commit](https://img.shields.io/github/last-commit/RIZONCIO/YMDF)
 ![Repo Size](https://img.shields.io/github/repo-size/RIZONCIO/ymdf)
 ![Languages](https://img.shields.io/github/languages/top/RIZONCIO/ymdf)
